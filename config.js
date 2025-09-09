@@ -1,5 +1,5 @@
 // Google Apps Script URL設定
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbyLL7OnhAX1JlILrbHfY-__MdYpfK-DaffttuzS6n3qZ5QpEMAKGAoqu18iCRa8on7s/exec';
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbzllhZ0Gix1ECRt6BhlrdUjikShzTNqZIlIoFA8AMnYeuLQd99MbWU1o19o0jlmxMpT/exec';
 
 // 時間帯設定
 const TIMESLOT_CONFIG = {
